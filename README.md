@@ -29,7 +29,7 @@ cd challenge_alura_store
 ```
 
 2. **Abre el notebook:**
-   - **En Google Colab**: sube `Alura_Store_Analysis.ipynb`.
+   - **En Google Colab**: sube `AluraStoreLatam.ipynb`.
    - **En Jupyter Notebook**: abre el archivo localmente.
 
 3. **Ejecuta todas las celdas del notebook** para visualizar el análisis completo y la recomendación final.
